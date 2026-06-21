@@ -18,4 +18,7 @@ This app uses a fine-tuned BERT model to classify news headlines into 4 categori
 - Accuracy: ~94.75%
 - F1 Score: ~94.75%
 
+## Streamlit App Link:
+https://huggingface.co/spaces/Muhammad-Umar26/news-classifier
+
 Enter a headline and click "Classify" to see the magic!
